@@ -1,0 +1,7 @@
+C:\Users\KikiChandra\Desktop\AppHarbour\HelloWorld\HelloWorld\bin\HelloWorld.dll
+C:\Users\KikiChandra\Desktop\AppHarbour\HelloWorld\HelloWorld\bin\HelloWorld.pdb
+C:\Users\KikiChandra\Desktop\AppHarbour\HelloWorld\HelloWorld\bin\EntityFramework.dll
+C:\Users\KikiChandra\Desktop\AppHarbour\HelloWorld\HelloWorld\bin\EntityFramework.xml
+C:\Users\KikiChandra\Desktop\AppHarbour\HelloWorld\HelloWorld\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KikiChandra\Desktop\AppHarbour\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
+C:\Users\KikiChandra\Desktop\AppHarbour\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
